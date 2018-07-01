@@ -1,0 +1,14 @@
+body{
+background-image: url(../images/background-1932466_960_720.jpg);
+
+color: white;
+}
+
+h1 {
+    color: white;
+} 
+
+p.three {
+  border-style: dotted;
+  border-width: 2px;
+}
